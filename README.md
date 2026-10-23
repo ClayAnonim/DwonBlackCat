@@ -4,7 +4,12 @@
 <!--                                    HERO HEADER BANNER                                     -->
 <!-- ========================================================================================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,45:1E1B4B,100:DB2777&height=220&section=header&text=BLACKCAT%20SUITE&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=High-Speed%20Media%20Downloader%20%E2%80%A2%20Turbo%20Preset%20Engine%20%E2%80%A2%20Creator%20Workspace&descAlignY=58&descSize=16" alt="BlackCat Suite Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,45:1E1B4B,100:DB2777&height=200&section=header&text=BLACKCAT%20SUITE&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=High-Speed%20Media%20Downloader%20%E2%80%A2%20Turbo%20Preset%20Engine%20%E2%80%A2%20Creator%20Workspace&descAlignY=60&descSize=16" alt="BlackCat Suite Banner" />
+
+<!-- OFFICIAL BLACKCAT MASCOT LOGO -->
+<p align="center">
+  <img src="public/assets/blackcat_logo.png" width="150" height="150" alt="BlackCat Mascot Logo" />
+</p>
 
 <!-- ANIMATED TYPING SUBTITLE -->
 <a href="https://github.com/ClayAnonim/DwonBlackCat">
@@ -189,6 +194,77 @@ Klik pada masing-masing baris di bawah ini untuk membuka rincian setiap fitur:
 | Kapabilitas | Penjelasan Fitur |
 | :--- | :--- |
 | **Pembuatan Email Instan** | Membuat alamat email sementara secara instan dengan dukungan pergantian domain aktif kapan saja. |
+| **Filter OTP Kontekstual** | Menyaring angka tahun, tanggal, waktu, dan resolusi di dalam badan email sehingga hanya menyalin **Kode Verifikasi OTP 6-Digit** yang valid. |
+| **Deteksi Tautan Aktivasi** | Menemukan tautan login atau verifikasi di dalam pesan HTML dan menampilkannya sebagai tombol aksi cepat. |
+
+</details>
+
+<details>
+<summary><b>04 — Antarmuka Liquid Glass & Sistem Pembaruan Otomatis (Auto-Update)</b></summary>
+<br/>
+
+| Kapabilitas | Penjelasan Fitur |
+| :--- | :--- |
+| **Floating Liquid Glass Navigation** | Bilah navigasi mengambang modern dengan animasi pegas (*spring physics*) yang responsif dan adaptif pada berbagai ukuran layar. |
+| **In-App Auto Update** | Memeriksa ketersediaan versi baru secara berkala, menampilkan catatan perubahan (*changelog*), dan mengunduh pembaruan langsung di dalam aplikasi. |
+
+</details>
+
+---
+
+## Perbandingan Kapabilitas
+
+| Fitur & Pengalaman Pengguna | Downloader Standar | BlackCat Suite |
+| :--- | :---: | :---: |
+| **Unduh Video HD Tanpa Watermark** | ![Ya](https://img.shields.io/badge/-Tersedia-10B981?style=flat-square) | ![Unggul](https://img.shields.io/badge/-Multi--Engine%20HD-10B981?style=flat-square) |
+| **Unduh Album Slide Foto & Live Photo** | ![Terbatas](https://img.shields.io/badge/-Terbatas-64748B?style=flat-square) | ![Otomatis](https://img.shields.io/badge/-Deteksi%20Otomatis-38BDF8?style=flat-square) |
+| **Pencari Preset Alight Motion (5MB & XML)** | ![Tidak](https://img.shields.io/badge/-Tidak%20Ada-EF4444?style=flat-square) | ![Cepat](https://img.shields.io/badge/-Paralel%202--5%20Detik-F43F5E?style=flat-square) |
+| **Deteksi Saluran & Skor Kecocokan Preset** | ![Tidak](https://img.shields.io/badge/-Tidak%20Ada-EF4444?style=flat-square) | ![Pintar](https://img.shields.io/badge/-Smart%20Scoring-A855F7?style=flat-square) |
+| **TapMail Instan & Auto-Extract Kode OTP** | ![Tidak](https://img.shields.io/badge/-Tidak%20Ada-EF4444?style=flat-square) | ![Terintegrasi](https://img.shields.io/badge/-Terintegrasi-10B981?style=flat-square) |
+| **Antarmuka Material 3 & Liquid Glass** | ![Standar](https://img.shields.io/badge/-Standar-64748B?style=flat-square) | ![Modern](https://img.shields.io/badge/-Liquid%20Glass%20UI-38BDF8?style=flat-square) |
+| **Pembaruan Aplikasi (*In-App Auto Update*)** | ![Tidak](https://img.shields.io/badge/-Manual-64748B?style=flat-square) | ![Aktif](https://img.shields.io/badge/-Otomatis%20+%20Changelog-F43F5E?style=flat-square) |
+
+---
+
+## Teknologi & Komponen Utama
+
+<div align="center">
+
+| Lapisan Sistem | Teknologi yang Digunakan |
+| :--- | :--- |
+| **Bahasa & Concurrency** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) &nbsp;`Coroutines` • `StateFlow` • `Parallel Async Execution` |
+| **Antarmuka Pengguna** | ![Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) &nbsp;`Material Design 3 Expressive` • `Liquid Glass Navigation` • `Coil` |
+| **Pemutar Media** | ![Media3](https://img.shields.io/badge/AndroidX_Media3-3DDC84?style=flat-square&logo=android&logoColor=white) &nbsp;`ExoPlayer Video & Audio Streaming` |
+| **Jaringan & Mesin Pencari** | ![OkHttp](https://img.shields.io/badge/OkHttp3-00B4AB?style=flat-square&logo=databricks&logoColor=white) &nbsp;`High-Speed Connection Pool` • `Smart Regex Parser` |
+
+</div>
+
+---
+
+## Panduan Penggunaan Cepat
+
+> [!NOTE]
+> Gunakan selalu versi terbaru **BlackCat Suite** dari halaman [**Releases**](../../releases) untuk menikmati seluruh fitur secara penuh beserta pembaruan otomatis.
+
+1. **Mengunduh Video, Slide Foto, atau Live Photo**:
+   Salin tautan postingan dari TikTok, buka **BlackCat**, tempelkan tautan pada kolom utama, lalu pilih kualitas unduhan (**HD No-Watermark**, **Slide Foto**, **Live Photo**, atau **MP3**).
+2. **Mencari Preset Alight Motion**:
+   Buka tab **Preset**, tempelkan tautan video TikTok, lalu tekan **Cari Preset**. Dalam **2–5 detik**, daftar preset **5MB** maupun **XML** beserta tombol pintas saluran kreator akan langsung ditampilkan.
+3. **Menggunakan TapMail & Salin OTP Otomatis**:
+   Buka tab **Alight Motion / TapMail**, buat email instan dengan satu ketukan, dan gunakan tombol salin cepat begitu kode verifikasi OTP 6-digit atau tautan masuk ke kotak pesan.
+
+---
+
+<div align="center">
+
+<!-- ========================================================================================= -->
+<!--                                     ANIMATED FOOTER                                       -->
+<!-- ========================================================================================= -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:DB2777,55:1E1B4B,100:090D16&height=130&section=footer&text=BLACKCAT%20SUITE%20%E2%80%94%20CRAFTED%20FOR%20CREATORS&fontSize=18&fontColor=FFFFFF&fontAlignY=65" alt="BlackCat Footer" />
+
+</div>
+buat alamat email sementara secara instan dengan dukungan pergantian domain aktif kapan saja. |
 | **Filter OTP Kontekstual** | Menyaring angka tahun, tanggal, waktu, dan resolusi di dalam badan email sehingga hanya menyalin **Kode Verifikasi OTP 6-Digit** yang valid. |
 | **Deteksi Tautan Aktivasi** | Menemukan tautan login atau verifikasi di dalam pesan HTML dan menampilkannya sebagai tombol aksi cepat. |
 
