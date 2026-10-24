@@ -1,8 +1,8 @@
 {
-  "versionTimestamp": 1792861079096,
+  "versionTimestamp": 1792861109070,
   "broadcastDialog": {
     "id": "dlg_1792861079093",
-    "isEnabled": true,
+    "isEnabled": false,
     "targetDeviceId": "ALL",
     "targetDeviceName": "Semua Pengguna (Global)",
     "title": "Pengumuman Penting",
