@@ -1,0 +1,33 @@
+{
+  "deviceId": "bc_ec76c65043415edf",
+  "deviceName": "Vivo V2427",
+  "deviceBrand": "vivo",
+  "deviceModel": "V2427",
+  "androidVersion": "Android 16 (SDK 36)",
+  "appVersion": "v2.0 (335)",
+  "ipAddress": "114.10.132.30",
+  "networkInfo": "PT. INDOSAT Tbk • Kendari • Indonesia",
+  "totalLinksUsed": 0,
+  "usedLinksList": [],
+  "isUsingFakeMail": false,
+  "activeFakeMail": "",
+  "usedFakeMails": [],
+  "isModifiedApp": false,
+  "securityStatus": "AMAN (Original)",
+  "tamperReasons": [],
+  "runtimePackageName": "com.downblackcat",
+  "certSha256": "a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc",
+  "installerSource": "Android Package Installer",
+  "firstInstallMillis": 1792861638773,
+  "lastSeenMillis": 1792861639731,
+  "usageHistory": [
+    {
+      "id": "act_1792861638814",
+      "timestampMillis": 1792861638814,
+      "formattedTime": "25 Okt 2026, 01:07:18",
+      "category": "APP_LAUNCH",
+      "actionTitle": "Membuka Aplikasi CatDownloader",
+      "targetValue": "Vivo V2427 (v2.0 (335))"
+    }
+  ]
+}
