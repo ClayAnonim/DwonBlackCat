@@ -1,0 +1,26 @@
+{
+  "versionTimestamp": 1792861079096,
+  "broadcastDialog": {
+    "id": "dlg_1792861079093",
+    "isEnabled": true,
+    "targetDeviceId": "ALL",
+    "targetDeviceName": "Semua Pengguna (Global)",
+    "title": "Pengumuman Penting",
+    "message": "Halo pengguna BlackCat! Pastikan Anda selalu menggunakan versi resmi terbaru.",
+    "style": "WARNING",
+    "timeLabel": "25 Okt 2026 • 00:57 WIB",
+    "okButtonText": "Mengerti",
+    "okButtonAction": "DISMISS",
+    "okButtonUrl": "",
+    "showCancelButton": true,
+    "cancelButtonText": "Tutup",
+    "cancelButtonAction": "DISMISS",
+    "cancelButtonUrl": "",
+    "countdownSeconds": 0,
+    "lockScreenUntilTurnedOff": false,
+    "createdAtMillis": 1792861079093,
+    "expiresAtMillis": 0
+  },
+  "autoKickModifiedApps": false,
+  "kickedUsers": []
+}
