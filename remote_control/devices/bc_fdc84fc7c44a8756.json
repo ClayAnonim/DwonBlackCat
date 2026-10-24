@@ -21,8 +21,16 @@
   "certSha256": "c2b5b2867db6ce24be5613a6697b55366c6e1ce77c2119e1cef2826d538961eb",
   "installerSource": "Android Package Installer",
   "firstInstallMillis": 1792861054033,
-  "lastSeenMillis": 1792861300816,
+  "lastSeenMillis": 1792861312369,
   "usageHistory": [
+    {
+      "id": "mail_1792861312369",
+      "timestampMillis": 1792861312369,
+      "formattedTime": "25 Okt 2026, 01:01:52",
+      "category": "FAKE_MAIL",
+      "actionTitle": "Mendaftarkan Akun Alight Motion",
+      "targetValue": "vocbiwvr@sharklasers.com"
+    },
     {
       "id": "mail_1792861300816",
       "timestampMillis": 1792861300816,
