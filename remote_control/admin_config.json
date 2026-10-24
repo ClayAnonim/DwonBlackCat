@@ -1,8 +1,8 @@
 {
-  "versionTimestamp": 1792861508046,
+  "versionTimestamp": 1792861741273,
   "broadcastDialog": {
     "id": "dlg_1792861427232",
-    "isEnabled": true,
+    "isEnabled": false,
     "targetDeviceId": "bc_fdc84fc7c44a8756",
     "targetDeviceName": "Vivo V2427 (bc_fdc84fc7c44a8756)",
     "title": "Informasi Penting",
