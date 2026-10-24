@@ -1,7 +1,7 @@
 {
-  "versionTimestamp": 1792861381041,
+  "versionTimestamp": 1792861427235,
   "broadcastDialog": {
-    "id": "dlg_1792861381038",
+    "id": "dlg_1792861427232",
     "isEnabled": true,
     "targetDeviceId": "bc_fdc84fc7c44a8756",
     "targetDeviceName": "Vivo V2427 (bc_fdc84fc7c44a8756)",
@@ -17,8 +17,8 @@
     "cancelButtonAction": "DISMISS",
     "cancelButtonUrl": "",
     "countdownSeconds": 0,
-    "lockScreenUntilTurnedOff": true,
-    "createdAtMillis": 1792861381038,
+    "lockScreenUntilTurnedOff": false,
+    "createdAtMillis": 1792861427232,
     "expiresAtMillis": 0
   },
   "autoKickModifiedApps": false,
