@@ -1,5 +1,5 @@
 {
-  "versionTimestamp": 1792861741273,
+  "versionTimestamp": 1792861994290,
   "broadcastDialog": {
     "id": "dlg_1792861427232",
     "isEnabled": false,
@@ -21,6 +21,6 @@
     "createdAtMillis": 1792861427232,
     "expiresAtMillis": 0
   },
-  "autoKickModifiedApps": true,
+  "autoKickModifiedApps": false,
   "kickedUsers": []
 }
