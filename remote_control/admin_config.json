@@ -1,5 +1,5 @@
 {
-  "versionTimestamp": 1792861109070,
+  "versionTimestamp": 1792861202384,
   "broadcastDialog": {
     "id": "dlg_1792861079093",
     "isEnabled": false,
@@ -22,5 +22,15 @@
     "expiresAtMillis": 0
   },
   "autoKickModifiedApps": false,
-  "kickedUsers": []
+  "kickedUsers": [
+    {
+      "deviceId": "bc_fdc84fc7c44a8756",
+      "deviceName": "Vivo V2427",
+      "ipAddress": "114.10.132.30",
+      "reason": "Akses perangkat Anda telah dihentikan oleh Administrator.",
+      "kickedAtMillis": 1792861202382,
+      "expiresAtMillis": 1792862102382,
+      "isModifiedAppKick": false
+    }
+  ]
 }
