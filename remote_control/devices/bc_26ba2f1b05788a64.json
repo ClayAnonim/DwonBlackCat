@@ -6,7 +6,7 @@
   "deviceModel": "sdk_gphone64_arm64",
   "androidVersion": "Android 15 (SDK 35)",
   "appVersion": "v0.1 (205)",
-  "ipAddress": "108.177.6.9",
+  "ipAddress": "108.177.18.218",
   "networkInfo": "Google LLC • San Jose • United States",
   "totalLinksUsed": 0,
   "usedLinksList": [],
@@ -23,7 +23,7 @@
   "isUninstalled": false,
   "uninstalledAtMillis": 0,
   "firstInstallMillis": 1792927033317,
-  "lastSeenMillis": 1792928205301,
+  "lastSeenMillis": 1792928209115,
   "usageHistory": [
     {
       "id": "act_1792927611623",
