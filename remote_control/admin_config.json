@@ -1,5 +1,5 @@
 {
-  "versionTimestamp": 1792949362737,
+  "versionTimestamp": 1792953482718,
   "broadcastDialog": {
     "id": "dlg_default",
     "isEnabled": false,
@@ -40,6 +40,15 @@
       "grantedAtMillis": 1792949362718,
       "expiresAtMillis": 1792949392312,
       "durationLabel": "30 Detik"
+    },
+    {
+      "deviceId": "bc_26ba2f1b05788a64",
+      "deviceName": "Google sdk_gphone64_arm64",
+      "isVip": true,
+      "isPermanent": true,
+      "grantedAtMillis": 1792953482642,
+      "expiresAtMillis": 0,
+      "durationLabel": "PERMANEN"
     }
   ]
 }
