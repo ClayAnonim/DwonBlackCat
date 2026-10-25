@@ -8,8 +8,10 @@
   "appVersion": "v2.1 (337)",
   "ipAddress": "114.10.132.30",
   "networkInfo": "PT. INDOSAT Tbk • Kendari • Indonesia",
-  "totalLinksUsed": 0,
-  "usedLinksList": [],
+  "totalLinksUsed": 1,
+  "usedLinksList": [
+    "Checkpoint\nohh iyaa di aplikasi blackcat kan fitur nya dan logo nya masi vip nahh buat aplikasi di balck cat di bagian logo vip nya jadi free dan tambahkan juga di menu user vip atau free beserta habis masa vip pake waktu, detik, tahun, bulan, dan jam, premanen, dan untuk bagian yang bakal di lock, acak email, pencari preset, alghit motion premium, dan fitur download profil di dwonloder, dan tambahkan Icone raja juga, kalok di paksa klik muncul dialog dengan text kusus premium, untuk akses premium hubungi admin,"
+  ],
   "isUsingFakeMail": true,
   "activeFakeMail": "amg6dd0p55@maxxspace.com",
   "usedFakeMails": [
@@ -25,8 +27,16 @@
   "isUninstalled": false,
   "uninstalledAtMillis": 0,
   "firstInstallMillis": 1792928468026,
-  "lastSeenMillis": 1792928990712,
+  "lastSeenMillis": 1792929004676,
   "usageHistory": [
+    {
+      "id": "link_1792929004676",
+      "timestampMillis": 1792929004676,
+      "formattedTime": "25 Okt 2026, 19:50:04",
+      "category": "LINK",
+      "actionTitle": "Menganalisis Tautan TikTok (Link ke-1)",
+      "targetValue": "Checkpoint\nohh iyaa di aplikasi blackcat kan fitur nya dan logo nya masi vip nahh buat aplikasi di balck cat di bagian logo vip nya jadi free dan tambahkan juga di menu user vip atau free beserta habis masa vip pake waktu, detik, tahun, bulan, dan jam, premanen, dan untuk bagian yang bakal di lock, acak email, pencari preset, alghit motion premium, dan fitur download profil di dwonloder, dan tambahkan Icone raja juga, kalok di paksa klik muncul dialog dengan text kusus premium, untuk akses premium hubungi admin,"
+    },
     {
       "id": "mail_1792928795067",
       "timestampMillis": 1792928795067,
