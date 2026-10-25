@@ -19,8 +19,16 @@
   "certSha256": "a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc",
   "installerSource": "Android Package Installer",
   "firstInstallMillis": 1792861638773,
-  "lastSeenMillis": 1792861735897,
+  "lastSeenMillis": 1792886565185,
   "usageHistory": [
+    {
+      "id": "act_1792886564659",
+      "timestampMillis": 1792886564659,
+      "formattedTime": "25 Okt 2026, 08:02:44",
+      "category": "APP_LAUNCH",
+      "actionTitle": "Membuka Aplikasi CatDownloader",
+      "targetValue": "Vivo V2427 (v2.0 (335))"
+    },
     {
       "id": "act_1792861638814",
       "timestampMillis": 1792861638814,
