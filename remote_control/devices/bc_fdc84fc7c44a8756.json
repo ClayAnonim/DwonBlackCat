@@ -19,11 +19,9 @@
     "ams6828fj9@maxxspace.com",
     "amg6dd0p55@maxxspace.com"
   ],
-  "isModifiedApp": true,
-  "securityStatus": "KEYSTORE \/ APK DIMODIFIKASI (1 Temuan)",
-  "tamperReasons": [
-    "Segel keamanan Keystore ditolak oleh server (HTTP 401)"
-  ],
+  "isModifiedApp": false,
+  "securityStatus": "KEYSTORE RESMI (Original)",
+  "tamperReasons": [],
   "runtimePackageName": "com.downblackcat",
   "certSha256": "c2b5b2867db6ce24be5613a6697b55366c6e1ce77c2119e1cef2826d538961eb",
   "installerSource": "Android Package Installer",
@@ -31,12 +29,12 @@
   "isUninstalled": false,
   "uninstalledAtMillis": 0,
   "firstInstallMillis": 1792928468026,
-  "lastSeenMillis": 1792949391374,
-  "isVip": true,
+  "lastSeenMillis": 1792949395567,
+  "isVip": false,
   "vipIsPermanent": false,
-  "vipGrantedAtMillis": 1792949362718,
-  "vipExpiresAtMillis": 1792949392312,
-  "vipDurationLabel": "30 Detik",
+  "vipGrantedAtMillis": 0,
+  "vipExpiresAtMillis": 0,
+  "vipDurationLabel": "FREE",
   "usageHistory": [
     {
       "id": "sec_1792949391374",
