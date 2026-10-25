@@ -25,17 +25,25 @@
   "runtimePackageName": "com.downblackcat",
   "certSha256": "c2b5b2867db6ce24be5613a6697b55366c6e1ce77c2119e1cef2826d538961eb",
   "installerSource": "Android Package Installer",
-  "isOnline": true,
+  "isOnline": false,
   "isUninstalled": false,
   "uninstalledAtMillis": 0,
   "firstInstallMillis": 1792928468026,
-  "lastSeenMillis": 1792952149558,
+  "lastSeenMillis": 1792952152892,
   "isVip": false,
   "vipIsPermanent": false,
   "vipGrantedAtMillis": 0,
   "vipExpiresAtMillis": 0,
   "vipDurationLabel": "FREE",
   "usageHistory": [
+    {
+      "id": "act_1792952150024",
+      "timestampMillis": 1792952150024,
+      "formattedTime": "26 Okt 2026, 02:15:50",
+      "category": "APP_LAUNCH",
+      "actionTitle": "Membuka Aplikasi CatDownloader",
+      "targetValue": "Vivo V2427 (v2.3 (342))"
+    },
     {
       "id": "sec_1792949391374",
       "timestampMillis": 1792949391374,
