@@ -6,8 +6,8 @@
   "deviceModel": "V2207",
   "androidVersion": "Android 14 (SDK 34)",
   "appVersion": "v2.1 (337)",
-  "ipAddress": "125.167.114.226",
-  "networkInfo": "Telekomunikasi Indonesia PT • Kota Makassar • Indonesia",
+  "ipAddress": "114.10.132.111",
+  "networkInfo": "PT. INDOSAT Tbk • Kendari • Indonesia",
   "totalLinksUsed": 1,
   "usedLinksList": [
     "https:\/\/vt.tiktok.com\/ZSgxcrPpW\/"
@@ -21,12 +21,20 @@
   "runtimePackageName": "com.downblackcat",
   "certSha256": "c2b5b2867db6ce24be5613a6697b55366c6e1ce77c2119e1cef2826d538961eb",
   "installerSource": "Android Package Installer",
-  "isOnline": true,
+  "isOnline": false,
   "isUninstalled": false,
   "uninstalledAtMillis": 0,
   "firstInstallMillis": 1792923611640,
-  "lastSeenMillis": 1792954561319,
+  "lastSeenMillis": 1792954565121,
   "usageHistory": [
+    {
+      "id": "act_1792954562297",
+      "timestampMillis": 1792954562297,
+      "formattedTime": "26 Okt 2026, 02:56:02",
+      "category": "APP_LAUNCH",
+      "actionTitle": "Membuka Aplikasi CatDownloader",
+      "targetValue": "Vivo V2207 (v2.1 (337))"
+    },
     {
       "id": "link_1792924083557",
       "timestampMillis": 1792924083557,
