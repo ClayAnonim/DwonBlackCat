@@ -1,5 +1,5 @@
 {
-  "versionTimestamp": 1792928496339,
+  "versionTimestamp": 1792928528661,
   "broadcastDialog": {
     "id": "dlg_1792924012719",
     "isEnabled": false,
@@ -23,15 +23,6 @@
   },
   "autoKickModifiedApps": true,
   "kickedUsers": [
-    {
-      "deviceId": "bc_fdc84fc7c44a8756",
-      "deviceName": "Vivo V2427",
-      "ipAddress": "114.10.132.30",
-      "reason": "Akses perangkat Anda telah dihentikan.",
-      "kickedAtMillis": 1792918624808,
-      "expiresAtMillis": 0,
-      "isModifiedAppKick": false
-    },
     {
       "deviceId": "bc_26ba2f1b05788a64",
       "deviceName": "Google sdk_gphone64_arm64",
