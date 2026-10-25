@@ -6,8 +6,8 @@
   "deviceModel": "Generic Android-x86_64",
   "androidVersion": "Android 13 (SDK 33)",
   "appVersion": "v2.3 (342)",
-  "ipAddress": "192.168.122.100",
-  "networkInfo": "",
+  "ipAddress": "35.225.135.249",
+  "networkInfo": "Google LLC • Kane • United States",
   "totalLinksUsed": 0,
   "usedLinksList": [],
   "isUsingFakeMail": false,
@@ -23,11 +23,20 @@
   "isUninstalled": false,
   "uninstalledAtMillis": 0,
   "firstInstallMillis": 1792939053854,
-  "lastSeenMillis": 1792939057984,
+  "lastSeenMillis": 1792939065835,
   "isVip": false,
   "vipIsPermanent": false,
   "vipGrantedAtMillis": 0,
   "vipExpiresAtMillis": 0,
   "vipDurationLabel": "FREE",
-  "usageHistory": []
+  "usageHistory": [
+    {
+      "id": "act_1792939058230",
+      "timestampMillis": 1792939058230,
+      "formattedTime": "25 Okt 2026, 10:37:38",
+      "category": "APP_LAUNCH",
+      "actionTitle": "Membuka Aplikasi CatDownloader",
+      "targetValue": "Unknown Generic Android-x86_64 (v2.3 (342))"
+    }
+  ]
 }
