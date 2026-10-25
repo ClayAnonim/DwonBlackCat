@@ -25,11 +25,28 @@
   "isUninstalled": false,
   "uninstalledAtMillis": 0,
   "firstInstallMillis": 1792887516767,
-  "lastSeenMillis": 1792887519591,
+  "lastSeenMillis": 1792887528109,
   "isVip": false,
   "vipIsPermanent": false,
   "vipGrantedAtMillis": 0,
   "vipExpiresAtMillis": 0,
   "vipDurationLabel": "FREE",
-  "usageHistory": []
+  "usageHistory": [
+    {
+      "id": "act_1792887528109",
+      "timestampMillis": 1792887528109,
+      "formattedTime": "24 Okt 2026, 20:18:48",
+      "category": "SECURITY",
+      "actionTitle": "Peringatan: Keystore \/ APK Dimodifikasi Dibuka",
+      "targetValue": "Segel keamanan Keystore ditolak oleh server (Signature mismatch)"
+    },
+    {
+      "id": "sec_1792887525116",
+      "timestampMillis": 1792887525116,
+      "formattedTime": "24 Okt 2026, 20:18:45",
+      "category": "SECURITY",
+      "actionTitle": "Terdeteksi Modifikasi Keystore \/ APK",
+      "targetValue": "Segel keamanan Keystore ditolak oleh server (HTTP 403)"
+    }
+  ]
 }
