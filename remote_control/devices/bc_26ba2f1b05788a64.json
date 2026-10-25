@@ -1,5 +1,6 @@
 {
   "deviceId": "bc_26ba2f1b05788a64",
+  "hardwareSignature": "google|sdk_gphone64_arm64|goldfish_arm64|ranchu|emu64a|sdk_35",
   "deviceName": "Google sdk_gphone64_arm64",
   "deviceBrand": "Google",
   "deviceModel": "sdk_gphone64_arm64",
@@ -18,9 +19,20 @@
   "runtimePackageName": "com.downblackcat",
   "certSha256": "c2b5b2867db6ce24be5613a6697b55366c6e1ce77c2119e1cef2826d538961eb",
   "installerSource": "com.android.shell",
-  "firstInstallMillis": 1792918879010,
-  "lastSeenMillis": 1792920671452,
+  "isOnline": true,
+  "isUninstalled": false,
+  "uninstalledAtMillis": 0,
+  "firstInstallMillis": 1792918877721,
+  "lastSeenMillis": 1792921105013,
   "usageHistory": [
+    {
+      "id": "act_1792921104943",
+      "timestampMillis": 1792921104943,
+      "formattedTime": "25 Okt 2026, 02:38:24",
+      "category": "APP_LAUNCH",
+      "actionTitle": "Membuka Aplikasi CatDownloader",
+      "targetValue": "Google sdk_gphone64_arm64 (v0.1 (205))"
+    },
     {
       "id": "act_1792920671188",
       "timestampMillis": 1792920671188,
