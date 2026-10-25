@@ -19,12 +19,20 @@
   "runtimePackageName": "com.downblackcat",
   "certSha256": "c2b5b2867db6ce24be5613a6697b55366c6e1ce77c2119e1cef2826d538961eb",
   "installerSource": "Android Package Installer",
-  "isOnline": true,
-  "isUninstalled": false,
-  "uninstalledAtMillis": 0,
+  "isOnline": false,
+  "isUninstalled": true,
+  "uninstalledAtMillis": 1792924258805,
   "firstInstallMillis": 1792918721746,
   "lastSeenMillis": 1792918733424,
   "usageHistory": [
+    {
+      "id": "uninst_1792924258805",
+      "timestampMillis": 1792924258805,
+      "formattedTime": "25 Okt 2026, 18:30:58",
+      "category": "UNINSTALL",
+      "actionTitle": "Mencopot \/ Uninstall Aplikasi CatDownloader",
+      "targetValue": "Vivo V2427 (v2.0 (335))"
+    },
     {
       "id": "act_1792918721819",
       "timestampMillis": 1792918721819,
