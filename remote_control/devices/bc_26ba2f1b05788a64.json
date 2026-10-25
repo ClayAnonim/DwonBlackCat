@@ -19,8 +19,16 @@
   "certSha256": "c2b5b2867db6ce24be5613a6697b55366c6e1ce77c2119e1cef2826d538961eb",
   "installerSource": "com.android.shell",
   "firstInstallMillis": 1792918879010,
-  "lastSeenMillis": 1792920140499,
+  "lastSeenMillis": 1792920671452,
   "usageHistory": [
+    {
+      "id": "act_1792920671188",
+      "timestampMillis": 1792920671188,
+      "formattedTime": "25 Okt 2026, 02:31:11",
+      "category": "APP_LAUNCH",
+      "actionTitle": "Membuka Aplikasi CatDownloader",
+      "targetValue": "Google sdk_gphone64_arm64 (v0.1 (205))"
+    },
     {
       "id": "act_1792920140320",
       "timestampMillis": 1792920140320,
