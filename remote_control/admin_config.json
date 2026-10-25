@@ -1,7 +1,7 @@
 {
-  "versionTimestamp": 1792923953816,
+  "versionTimestamp": 1792923985920,
   "broadcastDialog": {
-    "id": "dlg_1792923953780",
+    "id": "dlg_1792923985875",
     "isEnabled": true,
     "targetDeviceId": "bc_5d300a9d08473477",
     "targetDeviceName": "Vivo V2207 (bc_5d300a9d08473477)",
@@ -11,14 +11,14 @@
     "timeLabel": "25 Okt 2026 • 18:12 WIB",
     "okButtonText": "Mengerti",
     "okButtonAction": "OPEN_URL",
-    "okButtonUrl": "hay",
+    "okButtonUrl": "rusli poke",
     "showCancelButton": true,
     "cancelButtonText": "Tutup",
     "cancelButtonAction": "EXIT_APP",
     "cancelButtonUrl": "",
     "countdownSeconds": 0,
     "lockScreenUntilTurnedOff": true,
-    "createdAtMillis": 1792923953780,
+    "createdAtMillis": 1792923985875,
     "expiresAtMillis": 0
   },
   "autoKickModifiedApps": false,
