@@ -1,5 +1,5 @@
 {
-  "versionTimestamp": 1792937762769,
+  "versionTimestamp": 1792937787576,
   "broadcastDialog": {
     "id": "dlg_default",
     "isEnabled": false,
@@ -28,36 +28,7 @@
     "createdAtMillis": 0,
     "expiresAtMillis": 0
   },
-  "personalDialogs": [
-    {
-      "id": "dlg_user_bc_fdc84fc7c44a8756_1792937762727",
-      "isEnabled": true,
-      "targetDeviceId": "bc_fdc84fc7c44a8756",
-      "targetDeviceName": "Vivo V2427 (bc_fdc84fc7c44a8756)",
-      "title": "Pesan Khusus: Vivo V2427",
-      "message": "Halo pengguna Vivo V2427, ini adalah informasi khusus untuk perangkat Anda.",
-      "style": "INFO",
-      "timeLabel": "25 Oktober 2026 • 22:15:36 WIB",
-      "sendNotification": true,
-      "notificationTitle": "Pesan Khusus: Vivo V2427",
-      "notificationBody": "Halo pengguna Vivo V2427, ini adalah informasi khusus untuk perangkat Anda.",
-      "soundType": "CHIME_BELL",
-      "customSoundUrl": "",
-      "customSoundName": "",
-      "loopSoundUntilDismissed": false,
-      "okButtonText": "Mengerti",
-      "okButtonAction": "DISMISS",
-      "okButtonUrl": "",
-      "showCancelButton": true,
-      "cancelButtonText": "Tutup",
-      "cancelButtonAction": "DISMISS",
-      "cancelButtonUrl": "",
-      "countdownSeconds": 0,
-      "lockScreenUntilTurnedOff": false,
-      "createdAtMillis": 1792937762727,
-      "expiresAtMillis": 0
-    }
-  ],
+  "personalDialogs": [],
   "autoKickModifiedApps": false,
   "kickedUsers": [],
   "vipUsers": []
