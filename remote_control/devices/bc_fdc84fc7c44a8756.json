@@ -6,7 +6,7 @@
   "deviceModel": "V2427",
   "androidVersion": "Android 16 (SDK 36)",
   "appVersion": "v2.3 (342)",
-  "ipAddress": "114.10.132.30",
+  "ipAddress": "114.10.132.52",
   "networkInfo": "PT. INDOSAT Tbk • Kendari • Indonesia",
   "totalLinksUsed": 1,
   "usedLinksList": [
@@ -28,7 +28,7 @@
   "isUninstalled": false,
   "uninstalledAtMillis": 0,
   "firstInstallMillis": 1792928468026,
-  "lastSeenMillis": 1792941849030,
+  "lastSeenMillis": 1792941860824,
   "isVip": false,
   "vipIsPermanent": false,
   "vipGrantedAtMillis": 0,
