@@ -10,9 +10,11 @@
   "networkInfo": "PT. INDOSAT Tbk • Kendari • Indonesia",
   "totalLinksUsed": 0,
   "usedLinksList": [],
-  "isUsingFakeMail": false,
-  "activeFakeMail": "",
-  "usedFakeMails": [],
+  "isUsingFakeMail": true,
+  "activeFakeMail": "amg6dd0p55@maxxspace.com",
+  "usedFakeMails": [
+    "amg6dd0p55@maxxspace.com"
+  ],
   "isModifiedApp": false,
   "securityStatus": "KEYSTORE RESMI (Original)",
   "tamperReasons": [],
@@ -23,8 +25,16 @@
   "isUninstalled": false,
   "uninstalledAtMillis": 0,
   "firstInstallMillis": 1792928468026,
-  "lastSeenMillis": 1792928778861,
+  "lastSeenMillis": 1792928795067,
   "usageHistory": [
+    {
+      "id": "mail_1792928795067",
+      "timestampMillis": 1792928795067,
+      "formattedTime": "25 Okt 2026, 19:46:35",
+      "category": "FAKE_MAIL",
+      "actionTitle": "Membuat Fake Mail (TapMail)",
+      "targetValue": "amg6dd0p55@maxxspace.com"
+    },
     {
       "id": "act_1792928479547",
       "timestampMillis": 1792928479547,
