@@ -19,12 +19,20 @@
   "runtimePackageName": "com.downblackcat",
   "certSha256": "c2b5b2867db6ce24be5613a6697b55366c6e1ce77c2119e1cef2826d538961eb",
   "installerSource": "Android Package Installer",
-  "isOnline": true,
-  "isUninstalled": false,
-  "uninstalledAtMillis": 0,
+  "isOnline": false,
+  "isUninstalled": true,
+  "uninstalledAtMillis": 1792923170530,
   "firstInstallMillis": 1792923110601,
   "lastSeenMillis": 1792923159989,
   "usageHistory": [
+    {
+      "id": "uninst_1792923170530",
+      "timestampMillis": 1792923170530,
+      "formattedTime": "25 Okt 2026, 18:12:50",
+      "category": "UNINSTALL",
+      "actionTitle": "Ditandai Uninstall \/ Tidak Aktif Permanen",
+      "targetValue": "Vivo V2427"
+    },
     {
       "id": "act_1792923117131",
       "timestampMillis": 1792923117131,
