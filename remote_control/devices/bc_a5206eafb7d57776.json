@@ -8,8 +8,10 @@
   "appVersion": "v2.3 (342)",
   "ipAddress": "34.150.150.173",
   "networkInfo": "Google LLC • Washington • United States",
-  "totalLinksUsed": 0,
-  "usedLinksList": [],
+  "totalLinksUsed": 1,
+  "usedLinksList": [
+    "567336"
+  ],
   "isUsingFakeMail": false,
   "activeFakeMail": "",
   "usedFakeMails": [],
@@ -25,13 +27,21 @@
   "isUninstalled": false,
   "uninstalledAtMillis": 0,
   "firstInstallMillis": 1792887516767,
-  "lastSeenMillis": 1792887531476,
+  "lastSeenMillis": 1792887540618,
   "isVip": false,
   "vipIsPermanent": false,
   "vipGrantedAtMillis": 0,
   "vipExpiresAtMillis": 0,
   "vipDurationLabel": "FREE",
   "usageHistory": [
+    {
+      "id": "link_1792887540618",
+      "timestampMillis": 1792887540618,
+      "formattedTime": "24 Okt 2026, 20:19:00",
+      "category": "LINK",
+      "actionTitle": "Menganalisis Tautan TikTok (Link ke-1)",
+      "targetValue": "567336"
+    },
     {
       "id": "act_1792887528109",
       "timestampMillis": 1792887528109,
