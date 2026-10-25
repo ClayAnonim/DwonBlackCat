@@ -1,5 +1,6 @@
 {
   "deviceId": "bc_ec76c65043415edf",
+  "hardwareSignature": "",
   "deviceName": "Vivo V2427",
   "deviceBrand": "vivo",
   "deviceModel": "V2427",
@@ -13,11 +14,14 @@
   "activeFakeMail": "",
   "usedFakeMails": [],
   "isModifiedApp": false,
-  "securityStatus": "AMAN (Original)",
+  "securityStatus": "KEYSTORE RESMI (Original)",
   "tamperReasons": [],
   "runtimePackageName": "com.downblackcat",
-  "certSha256": "a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc",
+  "certSha256": "c2b5b2867db6ce24be5613a6697b55366c6e1ce77c2119e1cef2826d538961eb",
   "installerSource": "Android Package Installer",
+  "isOnline": true,
+  "isUninstalled": false,
+  "uninstalledAtMillis": 0,
   "firstInstallMillis": 1792918721746,
   "lastSeenMillis": 1792918733424,
   "usageHistory": [
