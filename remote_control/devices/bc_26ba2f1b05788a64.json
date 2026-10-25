@@ -6,8 +6,8 @@
   "deviceModel": "sdk_gphone64_arm64",
   "androidVersion": "Android 15 (SDK 35)",
   "appVersion": "v0.1 (205)",
-  "ipAddress": "108.177.18.218",
-  "networkInfo": "Google LLC • San Jose • United States",
+  "ipAddress": "10.0.2.15",
+  "networkInfo": "",
   "totalLinksUsed": 0,
   "usedLinksList": [],
   "isUsingFakeMail": false,
@@ -22,24 +22,7 @@
   "isOnline": true,
   "isUninstalled": false,
   "uninstalledAtMillis": 0,
-  "firstInstallMillis": 1792924319084,
-  "lastSeenMillis": 1792925848602,
-  "usageHistory": [
-    {
-      "id": "act_1792925832685",
-      "timestampMillis": 1792925832685,
-      "formattedTime": "25 Okt 2026, 03:57:12",
-      "category": "APP_LAUNCH",
-      "actionTitle": "Membuka Aplikasi CatDownloader",
-      "targetValue": "Google sdk_gphone64_arm64 (v0.1 (205))"
-    },
-    {
-      "id": "act_1792924322696",
-      "timestampMillis": 1792924322696,
-      "formattedTime": "25 Okt 2026, 03:32:02",
-      "category": "APP_LAUNCH",
-      "actionTitle": "Membuka Aplikasi CatDownloader",
-      "targetValue": "Google sdk_gphone64_arm64 (v0.1 (205))"
-    }
-  ]
+  "firstInstallMillis": 1792927033317,
+  "lastSeenMillis": 1792927035433,
+  "usageHistory": []
 }
