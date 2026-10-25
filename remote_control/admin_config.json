@@ -1,5 +1,5 @@
 {
-  "versionTimestamp": 1792918653957,
+  "versionTimestamp": 1792919700071,
   "broadcastDialog": {
     "id": "dlg_1792897437392",
     "isEnabled": false,
@@ -38,6 +38,15 @@
       "ipAddress": "114.10.132.30",
       "reason": "Akses perangkat Anda telah dihentikan oleh Administrator.",
       "kickedAtMillis": 1792918653956,
+      "expiresAtMillis": 0,
+      "isModifiedAppKick": false
+    },
+    {
+      "deviceId": "bc_26ba2f1b05788a64",
+      "deviceName": "Google sdk_gphone64_arm64",
+      "ipAddress": "108.177.18.218",
+      "reason": "Akses perangkat Anda telah dihentikan oleh Administrator.",
+      "kickedAtMillis": 1792919700069,
       "expiresAtMillis": 0,
       "isModifiedAppKick": false
     }
