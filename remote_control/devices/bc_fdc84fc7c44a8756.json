@@ -19,9 +19,11 @@
     "ams6828fj9@maxxspace.com",
     "amg6dd0p55@maxxspace.com"
   ],
-  "isModifiedApp": false,
-  "securityStatus": "KEYSTORE RESMI (Original)",
-  "tamperReasons": [],
+  "isModifiedApp": true,
+  "securityStatus": "KEYSTORE \/ APK DIMODIFIKASI (1 Temuan)",
+  "tamperReasons": [
+    "Segel keamanan Keystore ditolak oleh server (HTTP 401)"
+  ],
   "runtimePackageName": "com.downblackcat",
   "certSha256": "c2b5b2867db6ce24be5613a6697b55366c6e1ce77c2119e1cef2826d538961eb",
   "installerSource": "Android Package Installer",
@@ -29,13 +31,29 @@
   "isUninstalled": false,
   "uninstalledAtMillis": 0,
   "firstInstallMillis": 1792928468026,
-  "lastSeenMillis": 1792949383133,
+  "lastSeenMillis": 1792949391374,
   "isVip": true,
   "vipIsPermanent": false,
   "vipGrantedAtMillis": 1792949362718,
   "vipExpiresAtMillis": 1792949392312,
   "vipDurationLabel": "30 Detik",
   "usageHistory": [
+    {
+      "id": "sec_1792949391374",
+      "timestampMillis": 1792949391374,
+      "formattedTime": "26 Okt 2026, 01:29:51",
+      "category": "SECURITY",
+      "actionTitle": "Terdeteksi Modifikasi Keystore \/ APK",
+      "targetValue": "Segel keamanan Keystore ditolak oleh server (HTTP 401)"
+    },
+    {
+      "id": "sec_1792949384269",
+      "timestampMillis": 1792949384269,
+      "formattedTime": "26 Okt 2026, 01:29:44",
+      "category": "SECURITY",
+      "actionTitle": "Terdeteksi Modifikasi Keystore \/ APK",
+      "targetValue": "Segel keamanan Keystore ditolak oleh server (HTTP 401)"
+    },
     {
       "id": "mail_1792949383133",
       "timestampMillis": 1792949383133,
