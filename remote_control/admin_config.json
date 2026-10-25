@@ -1,5 +1,5 @@
 {
-  "versionTimestamp": 1792924167143,
+  "versionTimestamp": 1792924327472,
   "broadcastDialog": {
     "id": "dlg_1792924012719",
     "isEnabled": false,
@@ -21,7 +21,7 @@
     "createdAtMillis": 1792924012719,
     "expiresAtMillis": 0
   },
-  "autoKickModifiedApps": false,
+  "autoKickModifiedApps": true,
   "kickedUsers": [
     {
       "deviceId": "bc_fdc84fc7c44a8756",
