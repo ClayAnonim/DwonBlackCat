@@ -28,12 +28,12 @@
   "isUninstalled": false,
   "uninstalledAtMillis": 0,
   "firstInstallMillis": 1792928468026,
-  "lastSeenMillis": 1792937915274,
-  "isVip": true,
+  "lastSeenMillis": 1792937931635,
+  "isVip": false,
   "vipIsPermanent": false,
-  "vipGrantedAtMillis": 1792937854195,
-  "vipExpiresAtMillis": 1824473883797,
-  "vipDurationLabel": "1 Tahun 30 Detik",
+  "vipGrantedAtMillis": 0,
+  "vipExpiresAtMillis": 0,
+  "vipDurationLabel": "FREE",
   "usageHistory": [
     {
       "id": "mail_1792937880039",
