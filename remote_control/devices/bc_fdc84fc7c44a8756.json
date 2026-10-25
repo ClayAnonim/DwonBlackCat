@@ -6,8 +6,8 @@
   "deviceModel": "V2427",
   "androidVersion": "Android 16 (SDK 36)",
   "appVersion": "v2.1 (337)",
-  "ipAddress": "192.168.100.53",
-  "networkInfo": "",
+  "ipAddress": "125.167.114.226",
+  "networkInfo": "Telekomunikasi Indonesia PT • Kota Makassar • Indonesia",
   "totalLinksUsed": 0,
   "usedLinksList": [],
   "isUsingFakeMail": false,
@@ -23,6 +23,15 @@
   "isUninstalled": false,
   "uninstalledAtMillis": 0,
   "firstInstallMillis": 1792923110601,
-  "lastSeenMillis": 1792923114774,
-  "usageHistory": []
+  "lastSeenMillis": 1792923126648,
+  "usageHistory": [
+    {
+      "id": "act_1792923117131",
+      "timestampMillis": 1792923117131,
+      "formattedTime": "25 Okt 2026, 18:11:57",
+      "category": "APP_LAUNCH",
+      "actionTitle": "Membuka Aplikasi CatDownloader",
+      "targetValue": "Vivo V2427 (v2.1 (337))"
+    }
+  ]
 }
