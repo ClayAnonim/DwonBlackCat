@@ -8,8 +8,9 @@
   "appVersion": "v2.3 (342)",
   "ipAddress": "205.185.113.8",
   "networkInfo": "FranTech Solutions • Las Vegas • United States",
-  "totalLinksUsed": 6,
+  "totalLinksUsed": 7,
   "usedLinksList": [
+    "adb emu avd snapshot save \"snapshot\"",
     "demo_samplesmartsmartdaui123smartdaui123daui123",
     "demo_samplesmartsmartdaui123daui123",
     "demo_samplesmartdaui123",
@@ -30,13 +31,21 @@
   "isUninstalled": false,
   "uninstalledAtMillis": 0,
   "firstInstallMillis": 1792942769682,
-  "lastSeenMillis": 1792942813784,
+  "lastSeenMillis": 1792942819397,
   "isVip": false,
   "vipIsPermanent": false,
   "vipGrantedAtMillis": 0,
   "vipExpiresAtMillis": 0,
   "vipDurationLabel": "FREE",
   "usageHistory": [
+    {
+      "id": "link_1792942819397",
+      "timestampMillis": 1792942819397,
+      "formattedTime": "25 Okt 2026, 15:40:19",
+      "category": "LINK",
+      "actionTitle": "Menganalisis Tautan TikTok (Link ke-7)",
+      "targetValue": "adb emu avd snapshot save \"snapshot\""
+    },
     {
       "id": "link_1792942813784",
       "timestampMillis": 1792942813784,
