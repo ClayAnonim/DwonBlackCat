@@ -20,11 +20,19 @@
   "certSha256": "c2b5b2867db6ce24be5613a6697b55366c6e1ce77c2119e1cef2826d538961eb",
   "installerSource": "Android Package Installer",
   "isOnline": false,
-  "isUninstalled": false,
-  "uninstalledAtMillis": 0,
+  "isUninstalled": true,
+  "uninstalledAtMillis": 1792924258805,
   "firstInstallMillis": 1792923110601,
   "lastSeenMillis": 1792923264161,
   "usageHistory": [
+    {
+      "id": "uninst_1792924258805",
+      "timestampMillis": 1792924258805,
+      "formattedTime": "25 Okt 2026, 18:30:58",
+      "category": "UNINSTALL",
+      "actionTitle": "Mencopot \/ Uninstall Aplikasi CatDownloader",
+      "targetValue": "Vivo V2427 (v2.1 (337))"
+    },
     {
       "id": "act_1792923117131",
       "timestampMillis": 1792923117131,
