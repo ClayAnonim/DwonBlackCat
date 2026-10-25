@@ -1,5 +1,5 @@
 {
-  "versionTimestamp": 1792923700483,
+  "versionTimestamp": 1792923714397,
   "broadcastDialog": {
     "id": "dlg_1792897437392",
     "isEnabled": false,
@@ -38,15 +38,6 @@
       "ipAddress": "108.177.18.218",
       "reason": "Akses perangkat Anda telah dihentikan oleh Administrator.",
       "kickedAtMillis": 1792920151036,
-      "expiresAtMillis": 0,
-      "isModifiedAppKick": false
-    },
-    {
-      "deviceId": "bc_5d300a9d08473477",
-      "deviceName": "Vivo V2207",
-      "ipAddress": "125.167.114.226",
-      "reason": "Akses perangkat Anda telah dihentikan oleh Administrator.",
-      "kickedAtMillis": 1792923700442,
       "expiresAtMillis": 0,
       "isModifiedAppKick": false
     }
