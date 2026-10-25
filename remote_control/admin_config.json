@@ -1,7 +1,7 @@
 {
-  "versionTimestamp": 1792897231340,
+  "versionTimestamp": 1792897437394,
   "broadcastDialog": {
-    "id": "dlg_1792897231336",
+    "id": "dlg_1792897437392",
     "isEnabled": true,
     "targetDeviceId": "ALL",
     "targetDeviceName": "Semua Pengguna (Global)",
@@ -10,15 +10,15 @@
     "style": "ANNOUNCEMENT",
     "timeLabel": "25 Okt 2026 • 00:57 WIB",
     "okButtonText": "Mengerti",
-    "okButtonAction": "EXIT_APP",
-    "okButtonUrl": "",
+    "okButtonAction": "OPEN_URL",
+    "okButtonUrl": "hay",
     "showCancelButton": false,
     "cancelButtonText": "Tutup",
     "cancelButtonAction": "DISMISS",
     "cancelButtonUrl": "",
     "countdownSeconds": 0,
     "lockScreenUntilTurnedOff": true,
-    "createdAtMillis": 1792897231336,
+    "createdAtMillis": 1792897437392,
     "expiresAtMillis": 0
   },
   "autoKickModifiedApps": false,
