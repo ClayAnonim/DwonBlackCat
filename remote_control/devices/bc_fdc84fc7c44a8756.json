@@ -1,89 +1,28 @@
 {
   "deviceId": "bc_fdc84fc7c44a8756",
+  "hardwareSignature": "vivo|v2427|crow|qcom|v2427|sdk_36",
   "deviceName": "Vivo V2427",
   "deviceBrand": "vivo",
   "deviceModel": "V2427",
   "androidVersion": "Android 16 (SDK 36)",
-  "appVersion": "v2.0 (335)",
-  "ipAddress": "114.10.132.30",
-  "networkInfo": "PT. INDOSAT Tbk • Kendari • Indonesia",
+  "appVersion": "v2.1 (337)",
+  "ipAddress": "192.168.100.53",
+  "networkInfo": "",
   "totalLinksUsed": 0,
   "usedLinksList": [],
   "isUsingFakeMail": false,
   "activeFakeMail": "",
   "usedFakeMails": [],
   "isModifiedApp": false,
-  "securityStatus": "AMAN (Original)",
+  "securityStatus": "KEYSTORE RESMI (Original)",
   "tamperReasons": [],
-  "runtimePackageName": "com.downblackcat.admin",
+  "runtimePackageName": "com.downblackcat",
   "certSha256": "c2b5b2867db6ce24be5613a6697b55366c6e1ce77c2119e1cef2826d538961eb",
   "installerSource": "Android Package Installer",
-  "firstInstallMillis": 1792860798085,
-  "lastSeenMillis": 1792920330319,
-  "usageHistory": [
-    {
-      "id": "act_1792918942440",
-      "timestampMillis": 1792918942440,
-      "formattedTime": "25 Okt 2026, 17:02:22",
-      "category": "APP_LAUNCH",
-      "actionTitle": "Membuka Aplikasi CatDownloader",
-      "targetValue": "Vivo V2427 (v2.0 (335))"
-    },
-    {
-      "id": "act_1792918589751",
-      "timestampMillis": 1792918589751,
-      "formattedTime": "25 Okt 2026, 16:56:29",
-      "category": "APP_LAUNCH",
-      "actionTitle": "Membuka Aplikasi CatDownloader",
-      "targetValue": "Vivo V2427 (v2.0 (335))"
-    },
-    {
-      "id": "act_1792908589513",
-      "timestampMillis": 1792908589513,
-      "formattedTime": "25 Okt 2026, 14:09:49",
-      "category": "APP_LAUNCH",
-      "actionTitle": "Membuka Aplikasi CatDownloader",
-      "targetValue": "Vivo V2427 (v2.0 (335))"
-    },
-    {
-      "id": "act_1792897050309",
-      "timestampMillis": 1792897050309,
-      "formattedTime": "25 Okt 2026, 10:57:30",
-      "category": "APP_LAUNCH",
-      "actionTitle": "Membuka Aplikasi CatDownloader",
-      "targetValue": "Vivo V2427 (v2.0 (335))"
-    },
-    {
-      "id": "act_1792886568143",
-      "timestampMillis": 1792886568143,
-      "formattedTime": "25 Okt 2026, 08:02:48",
-      "category": "APP_LAUNCH",
-      "actionTitle": "Membuka Aplikasi CatDownloader",
-      "targetValue": "Vivo V2427 (v2.0 (335))"
-    },
-    {
-      "id": "act_1792883538523",
-      "timestampMillis": 1792883538523,
-      "formattedTime": "25 Okt 2026, 07:12:18",
-      "category": "APP_LAUNCH",
-      "actionTitle": "Membuka Aplikasi CatDownloader",
-      "targetValue": "Vivo V2427 (v2.0 (335))"
-    },
-    {
-      "id": "act_1792861023268",
-      "timestampMillis": 1792861023268,
-      "formattedTime": "25 Okt 2026, 00:57:03",
-      "category": "APP_LAUNCH",
-      "actionTitle": "Membuka Aplikasi CatDownloader",
-      "targetValue": "Vivo V2427 (v2.0 (335))"
-    },
-    {
-      "id": "act_1792860798124",
-      "timestampMillis": 1792860798124,
-      "formattedTime": "25 Okt 2026, 00:53:18",
-      "category": "APP_LAUNCH",
-      "actionTitle": "Membuka Aplikasi CatDownloader",
-      "targetValue": "Vivo V2427 (v2.0 (335))"
-    }
-  ]
+  "isOnline": true,
+  "isUninstalled": false,
+  "uninstalledAtMillis": 0,
+  "firstInstallMillis": 1792923110601,
+  "lastSeenMillis": 1792923114774,
+  "usageHistory": []
 }
