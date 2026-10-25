@@ -1,8 +1,8 @@
 {
-  "versionTimestamp": 1792924012748,
+  "versionTimestamp": 1792924025151,
   "broadcastDialog": {
     "id": "dlg_1792924012719",
-    "isEnabled": true,
+    "isEnabled": false,
     "targetDeviceId": "bc_5d300a9d08473477",
     "targetDeviceName": "Vivo V2207 (bc_5d300a9d08473477)",
     "title": "Informasi Penting",
