@@ -8,8 +8,9 @@
   "appVersion": "v2.3 (342)",
   "ipAddress": "205.185.113.8",
   "networkInfo": "FranTech Solutions • Las Vegas • United States",
-  "totalLinksUsed": 1,
+  "totalLinksUsed": 2,
   "usedLinksList": [
+    "smartdaui123smartdaui123",
     "smartdaui123"
   ],
   "isUsingFakeMail": false,
@@ -25,13 +26,21 @@
   "isUninstalled": false,
   "uninstalledAtMillis": 0,
   "firstInstallMillis": 1792942769682,
-  "lastSeenMillis": 1792942790844,
+  "lastSeenMillis": 1792942796819,
   "isVip": false,
   "vipIsPermanent": false,
   "vipGrantedAtMillis": 0,
   "vipExpiresAtMillis": 0,
   "vipDurationLabel": "FREE",
   "usageHistory": [
+    {
+      "id": "link_1792942796819",
+      "timestampMillis": 1792942796819,
+      "formattedTime": "25 Okt 2026, 15:39:56",
+      "category": "LINK",
+      "actionTitle": "Menganalisis Tautan TikTok (Link ke-2)",
+      "targetValue": "smartdaui123smartdaui123"
+    },
     {
       "id": "link_1792942790844",
       "timestampMillis": 1792942790844,
