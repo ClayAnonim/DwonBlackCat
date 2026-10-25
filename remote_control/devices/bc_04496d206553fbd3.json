@@ -6,8 +6,8 @@
   "deviceModel": "OnePlus8Pro",
   "androidVersion": "Android 11 (SDK 30)",
   "appVersion": "v2.3 (342)",
-  "ipAddress": "192.168.97.2",
-  "networkInfo": "",
+  "ipAddress": "66.249.84.160",
+  "networkInfo": "Google LLC • San Jose • United States",
   "totalLinksUsed": 0,
   "usedLinksList": [],
   "isUsingFakeMail": false,
@@ -23,11 +23,20 @@
   "isUninstalled": false,
   "uninstalledAtMillis": 0,
   "firstInstallMillis": 1792939125080,
-  "lastSeenMillis": 1792939214142,
+  "lastSeenMillis": 1792939218744,
   "isVip": false,
   "vipIsPermanent": false,
   "vipGrantedAtMillis": 0,
   "vipExpiresAtMillis": 0,
   "vipDurationLabel": "FREE",
-  "usageHistory": []
+  "usageHistory": [
+    {
+      "id": "act_1792939216969",
+      "timestampMillis": 1792939216969,
+      "formattedTime": "25 Okt 2026, 07:40:16",
+      "category": "APP_LAUNCH",
+      "actionTitle": "Membuka Aplikasi CatDownloader",
+      "targetValue": "OnePlus8Pro (v2.3 (342))"
+    }
+  ]
 }
