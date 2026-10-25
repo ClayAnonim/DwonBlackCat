@@ -29,12 +29,20 @@
   "uninstalledAtMillis": 0,
   "firstInstallMillis": 1792928468026,
   "lastSeenMillis": 1792938201019,
-  "isVip": false,
+  "isVip": true,
   "vipIsPermanent": false,
-  "vipGrantedAtMillis": 0,
-  "vipExpiresAtMillis": 0,
-  "vipDurationLabel": "FREE",
+  "vipGrantedAtMillis": 1792938214542,
+  "vipExpiresAtMillis": 1792938244175,
+  "vipDurationLabel": "30 Detik",
   "usageHistory": [
+    {
+      "id": "vip_1792938214542",
+      "timestampMillis": 1792938214542,
+      "formattedTime": "25 Okt 2026, 22:23:34",
+      "category": "VIP",
+      "actionTitle": "Status Diubah ke VIP (30 Detik)",
+      "targetValue": "Vivo V2427"
+    },
     {
       "id": "mail_1792937880039",
       "timestampMillis": 1792937880039,
