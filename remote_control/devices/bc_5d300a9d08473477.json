@@ -6,8 +6,8 @@
   "deviceModel": "V2207",
   "androidVersion": "Android 14 (SDK 34)",
   "appVersion": "v2.1 (337)",
-  "ipAddress": "10.62.19.39",
-  "networkInfo": "",
+  "ipAddress": "125.167.114.226",
+  "networkInfo": "Telekomunikasi Indonesia PT • Kota Makassar • Indonesia",
   "totalLinksUsed": 0,
   "usedLinksList": [],
   "isUsingFakeMail": false,
@@ -23,6 +23,15 @@
   "isUninstalled": false,
   "uninstalledAtMillis": 0,
   "firstInstallMillis": 1792923611640,
-  "lastSeenMillis": 1792923625282,
-  "usageHistory": []
+  "lastSeenMillis": 1792923629316,
+  "usageHistory": [
+    {
+      "id": "act_1792923625782",
+      "timestampMillis": 1792923625782,
+      "formattedTime": "25 Okt 2026, 18:20:25",
+      "category": "APP_LAUNCH",
+      "actionTitle": "Membuka Aplikasi CatDownloader",
+      "targetValue": "Vivo V2207 (v2.1 (337))"
+    }
+  ]
 }
