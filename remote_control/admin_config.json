@@ -1,5 +1,5 @@
 {
-  "versionTimestamp": 1792949264442,
+  "versionTimestamp": 1792949362737,
   "broadcastDialog": {
     "id": "dlg_default",
     "isEnabled": false,
@@ -36,10 +36,10 @@
       "deviceId": "bc_fdc84fc7c44a8756",
       "deviceName": "Vivo V2427",
       "isVip": true,
-      "isPermanent": true,
-      "grantedAtMillis": 1792949264402,
-      "expiresAtMillis": 0,
-      "durationLabel": "PERMANEN"
+      "isPermanent": false,
+      "grantedAtMillis": 1792949362718,
+      "expiresAtMillis": 1792949392312,
+      "durationLabel": "30 Detik"
     }
   ]
 }
