@@ -22,8 +22,8 @@
   "certSha256": "c2b5b2867db6ce24be5613a6697b55366c6e1ce77c2119e1cef2826d538961eb",
   "installerSource": "Android Package Installer",
   "isOnline": false,
-  "isUninstalled": true,
-  "uninstalledAtMillis": 1792924197997,
+  "isUninstalled": false,
+  "uninstalledAtMillis": 0,
   "firstInstallMillis": 1792923611640,
   "lastSeenMillis": 1792924166102,
   "usageHistory": [
