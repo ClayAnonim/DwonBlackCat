@@ -13,8 +13,9 @@
     "Checkpoint\nohh iyaa di aplikasi blackcat kan fitur nya dan logo nya masi vip nahh buat aplikasi di balck cat di bagian logo vip nya jadi free dan tambahkan juga di menu user vip atau free beserta habis masa vip pake waktu, detik, tahun, bulan, dan jam, premanen, dan untuk bagian yang bakal di lock, acak email, pencari preset, alghit motion premium, dan fitur download profil di dwonloder, dan tambahkan Icone raja juga, kalok di paksa klik muncul dialog dengan text kusus premium, untuk akses premium hubungi admin,"
   ],
   "isUsingFakeMail": true,
-  "activeFakeMail": "ams6828fj9@maxxspace.com",
+  "activeFakeMail": "ammdobbkxt@maxxspace.com",
   "usedFakeMails": [
+    "ammdobbkxt@maxxspace.com",
     "ams6828fj9@maxxspace.com",
     "amg6dd0p55@maxxspace.com"
   ],
@@ -28,13 +29,21 @@
   "isUninstalled": false,
   "uninstalledAtMillis": 0,
   "firstInstallMillis": 1792928468026,
-  "lastSeenMillis": 1792949378679,
+  "lastSeenMillis": 1792949383133,
   "isVip": true,
   "vipIsPermanent": false,
   "vipGrantedAtMillis": 1792949362718,
   "vipExpiresAtMillis": 1792949392312,
   "vipDurationLabel": "30 Detik",
   "usageHistory": [
+    {
+      "id": "mail_1792949383133",
+      "timestampMillis": 1792949383133,
+      "formattedTime": "26 Okt 2026, 01:29:43",
+      "category": "FAKE_MAIL",
+      "actionTitle": "Membuat Fake Mail (TapMail)",
+      "targetValue": "ammdobbkxt@maxxspace.com"
+    },
     {
       "id": "act_1792939165674",
       "timestampMillis": 1792939165674,
