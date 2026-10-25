@@ -1,5 +1,5 @@
 {
-  "versionTimestamp": 1792937787576,
+  "versionTimestamp": 1792937854237,
   "broadcastDialog": {
     "id": "dlg_default",
     "isEnabled": false,
@@ -31,5 +31,15 @@
   "personalDialogs": [],
   "autoKickModifiedApps": false,
   "kickedUsers": [],
-  "vipUsers": []
+  "vipUsers": [
+    {
+      "deviceId": "bc_fdc84fc7c44a8756",
+      "deviceName": "Vivo V2427",
+      "isVip": true,
+      "isPermanent": false,
+      "grantedAtMillis": 1792937854195,
+      "expiresAtMillis": 1824473883797,
+      "durationLabel": "1 Tahun 30 Detik"
+    }
+  ]
 }
