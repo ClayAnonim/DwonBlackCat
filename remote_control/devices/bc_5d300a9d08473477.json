@@ -22,11 +22,19 @@
   "certSha256": "c2b5b2867db6ce24be5613a6697b55366c6e1ce77c2119e1cef2826d538961eb",
   "installerSource": "Android Package Installer",
   "isOnline": false,
-  "isUninstalled": false,
-  "uninstalledAtMillis": 0,
+  "isUninstalled": true,
+  "uninstalledAtMillis": 1792924197997,
   "firstInstallMillis": 1792923611640,
   "lastSeenMillis": 1792924166102,
   "usageHistory": [
+    {
+      "id": "uninst_1792924197997",
+      "timestampMillis": 1792924197997,
+      "formattedTime": "25 Okt 2026, 18:29:57",
+      "category": "UNINSTALL",
+      "actionTitle": "Ditandai Uninstall \/ Tidak Aktif Permanen",
+      "targetValue": "Vivo V2207"
+    },
     {
       "id": "link_1792924083557",
       "timestampMillis": 1792924083557,
