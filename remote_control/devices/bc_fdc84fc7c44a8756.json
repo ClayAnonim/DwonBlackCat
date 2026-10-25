@@ -27,13 +27,21 @@
   "isUninstalled": false,
   "uninstalledAtMillis": 0,
   "firstInstallMillis": 1792928468026,
-  "lastSeenMillis": 1792937850228,
-  "isVip": false,
+  "lastSeenMillis": 1792937833672,
+  "isVip": true,
   "vipIsPermanent": false,
-  "vipGrantedAtMillis": 0,
-  "vipExpiresAtMillis": 0,
-  "vipDurationLabel": "FREE",
+  "vipGrantedAtMillis": 1792937854195,
+  "vipExpiresAtMillis": 1824473883797,
+  "vipDurationLabel": "1 Tahun 30 Detik",
   "usageHistory": [
+    {
+      "id": "vip_1792937854195",
+      "timestampMillis": 1792937854195,
+      "formattedTime": "25 Okt 2026, 22:17:34",
+      "category": "VIP",
+      "actionTitle": "Status Diubah ke VIP (1 Tahun 30 Detik)",
+      "targetValue": "Vivo V2427"
+    },
     {
       "id": "act_1792937702124",
       "timestampMillis": 1792937702124,
