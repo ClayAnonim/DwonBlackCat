@@ -24,25 +24,17 @@
   "runtimePackageName": "com.downblackcat",
   "certSha256": "c2b5b2867db6ce24be5613a6697b55366c6e1ce77c2119e1cef2826d538961eb",
   "installerSource": "Android Package Installer",
-  "isOnline": false,
+  "isOnline": true,
   "isUninstalled": false,
   "uninstalledAtMillis": 0,
   "firstInstallMillis": 1792928468026,
-  "lastSeenMillis": 1792949349947,
+  "lastSeenMillis": 1792949378679,
   "isVip": true,
   "vipIsPermanent": false,
   "vipGrantedAtMillis": 1792949362718,
   "vipExpiresAtMillis": 1792949392312,
   "vipDurationLabel": "30 Detik",
   "usageHistory": [
-    {
-      "id": "vip_1792949362718",
-      "timestampMillis": 1792949362718,
-      "formattedTime": "26 Okt 2026, 01:29:22",
-      "category": "VIP",
-      "actionTitle": "Status Diubah ke VIP (30 Detik)",
-      "targetValue": "Vivo V2427"
-    },
     {
       "id": "act_1792939165674",
       "timestampMillis": 1792939165674,
