@@ -6,8 +6,8 @@
   "deviceModel": "sdk_gphone64_arm64",
   "androidVersion": "Android 15 (SDK 35)",
   "appVersion": "v0.1 (205)",
-  "ipAddress": "108.177.6.10",
-  "networkInfo": "Google LLC • San Jose • United States",
+  "ipAddress": "10.0.2.15",
+  "networkInfo": "",
   "totalLinksUsed": 0,
   "usedLinksList": [],
   "isUsingFakeMail": false,
@@ -22,45 +22,13 @@
   "isOnline": true,
   "isUninstalled": false,
   "uninstalledAtMillis": 0,
-  "firstInstallMillis": 1792918877721,
-  "lastSeenMillis": 1792921813047,
+  "firstInstallMillis": 1792921945196,
+  "lastSeenMillis": 1792921946508,
   "usageHistory": [
     {
-      "id": "act_1792921104943",
-      "timestampMillis": 1792921104943,
-      "formattedTime": "25 Okt 2026, 02:38:24",
-      "category": "APP_LAUNCH",
-      "actionTitle": "Membuka Aplikasi CatDownloader",
-      "targetValue": "Google sdk_gphone64_arm64 (v0.1 (205))"
-    },
-    {
-      "id": "act_1792920671188",
-      "timestampMillis": 1792920671188,
-      "formattedTime": "25 Okt 2026, 02:31:11",
-      "category": "APP_LAUNCH",
-      "actionTitle": "Membuka Aplikasi CatDownloader",
-      "targetValue": "Google sdk_gphone64_arm64 (v0.1 (205))"
-    },
-    {
-      "id": "act_1792920140320",
-      "timestampMillis": 1792920140320,
-      "formattedTime": "25 Okt 2026, 02:22:20",
-      "category": "APP_LAUNCH",
-      "actionTitle": "Membuka Aplikasi CatDownloader",
-      "targetValue": "Google sdk_gphone64_arm64 (v0.1 (205))"
-    },
-    {
-      "id": "act_1792919632898",
-      "timestampMillis": 1792919632898,
-      "formattedTime": "25 Okt 2026, 02:13:52",
-      "category": "APP_LAUNCH",
-      "actionTitle": "Membuka Aplikasi CatDownloader",
-      "targetValue": "Google sdk_gphone64_arm64 (v0.1 (205))"
-    },
-    {
-      "id": "act_1792918879031",
-      "timestampMillis": 1792918879031,
-      "formattedTime": "25 Okt 2026, 02:01:19",
+      "id": "act_1792921946423",
+      "timestampMillis": 1792921946423,
+      "formattedTime": "25 Okt 2026, 02:52:26",
       "category": "APP_LAUNCH",
       "actionTitle": "Membuka Aplikasi CatDownloader",
       "targetValue": "Google sdk_gphone64_arm64 (v0.1 (205))"
