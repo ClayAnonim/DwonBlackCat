@@ -8,8 +8,10 @@
   "appVersion": "v2.1 (337)",
   "ipAddress": "125.167.114.226",
   "networkInfo": "Telekomunikasi Indonesia PT • Kota Makassar • Indonesia",
-  "totalLinksUsed": 0,
-  "usedLinksList": [],
+  "totalLinksUsed": 1,
+  "usedLinksList": [
+    "https:\/\/vt.tiktok.com\/ZSgxcrPpW\/"
+  ],
   "isUsingFakeMail": false,
   "activeFakeMail": "",
   "usedFakeMails": [],
@@ -23,8 +25,16 @@
   "isUninstalled": false,
   "uninstalledAtMillis": 0,
   "firstInstallMillis": 1792923611640,
-  "lastSeenMillis": 1792924082258,
+  "lastSeenMillis": 1792924086564,
   "usageHistory": [
+    {
+      "id": "link_1792924083557",
+      "timestampMillis": 1792924083557,
+      "formattedTime": "25 Okt 2026, 18:28:03",
+      "category": "LINK",
+      "actionTitle": "Menganalisis Tautan TikTok (Link ke-1)",
+      "targetValue": "https:\/\/vt.tiktok.com\/ZSgxcrPpW\/"
+    },
     {
       "id": "act_1792923625782",
       "timestampMillis": 1792923625782,
