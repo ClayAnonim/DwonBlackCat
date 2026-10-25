@@ -6,8 +6,8 @@
   "deviceModel": "sdk_gphone64_x86_64",
   "androidVersion": "Android 12 (SDK 31)",
   "appVersion": "v2.3 (342)",
-  "ipAddress": "10.0.2.15",
-  "networkInfo": "",
+  "ipAddress": "205.185.113.8",
+  "networkInfo": "FranTech Solutions • Las Vegas • United States",
   "totalLinksUsed": 0,
   "usedLinksList": [],
   "isUsingFakeMail": false,
@@ -23,11 +23,20 @@
   "isUninstalled": false,
   "uninstalledAtMillis": 0,
   "firstInstallMillis": 1792942769682,
-  "lastSeenMillis": 1792942772573,
+  "lastSeenMillis": 1792942777546,
   "isVip": false,
   "vipIsPermanent": false,
   "vipGrantedAtMillis": 0,
   "vipExpiresAtMillis": 0,
   "vipDurationLabel": "FREE",
-  "usageHistory": []
+  "usageHistory": [
+    {
+      "id": "act_1792942775301",
+      "timestampMillis": 1792942775301,
+      "formattedTime": "25 Okt 2026, 15:39:35",
+      "category": "APP_LAUNCH",
+      "actionTitle": "Membuka Aplikasi CatDownloader",
+      "targetValue": "Google sdk_gphone64_x86_64 (v2.3 (342))"
+    }
+  ]
 }
