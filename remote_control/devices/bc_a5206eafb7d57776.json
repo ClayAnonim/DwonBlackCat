@@ -17,7 +17,7 @@
   "activeFakeMail": "",
   "usedFakeMails": [],
   "isModifiedApp": true,
-  "securityStatus": "KEYSTORE \/ APK DIMODIFIKASI (1 Temuan)",
+  "securityStatus": "TERDETEKSI MODIFIKASI (1 Temuan)",
   "tamperReasons": [
     "Segel keamanan Keystore ditolak oleh server (Signature mismatch)"
   ],
