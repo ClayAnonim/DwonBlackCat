@@ -14,7 +14,7 @@
   "activeFakeMail": "",
   "usedFakeMails": [],
   "isModifiedApp": false,
-  "securityStatus": "AMAN (Original)",
+  "securityStatus": "KEYSTORE RESMI (Original)",
   "tamperReasons": [],
   "runtimePackageName": "com.downblackcat",
   "certSha256": "c2b5b2867db6ce24be5613a6697b55366c6e1ce77c2119e1cef2826d538961eb",
@@ -23,8 +23,16 @@
   "isUninstalled": false,
   "uninstalledAtMillis": 0,
   "firstInstallMillis": 1792921945196,
-  "lastSeenMillis": 1792922423929,
+  "lastSeenMillis": 1792922426537,
   "usageHistory": [
+    {
+      "id": "act_1792922425925",
+      "timestampMillis": 1792922425925,
+      "formattedTime": "25 Okt 2026, 03:00:25",
+      "category": "APP_LAUNCH",
+      "actionTitle": "Membuka Aplikasi CatDownloader",
+      "targetValue": "Google sdk_gphone64_arm64 (v0.1 (205))"
+    },
     {
       "id": "act_1792921946423",
       "timestampMillis": 1792921946423,
