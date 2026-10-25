@@ -27,13 +27,21 @@
   "isUninstalled": false,
   "uninstalledAtMillis": 0,
   "firstInstallMillis": 1792928468026,
-  "lastSeenMillis": 1792937700272,
+  "lastSeenMillis": 1792937702265,
   "isVip": false,
   "vipIsPermanent": false,
   "vipGrantedAtMillis": 0,
   "vipExpiresAtMillis": 0,
   "vipDurationLabel": "FREE",
   "usageHistory": [
+    {
+      "id": "act_1792937702124",
+      "timestampMillis": 1792937702124,
+      "formattedTime": "25 Okt 2026, 22:15:02",
+      "category": "APP_LAUNCH",
+      "actionTitle": "Membuka Aplikasi CatDownloader",
+      "targetValue": "Vivo V2427 (v2.3 (342))"
+    },
     {
       "id": "act_1792936402306",
       "timestampMillis": 1792936402306,
