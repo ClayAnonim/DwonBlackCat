@@ -31,6 +31,14 @@
   "vipDurationLabel": "FREE",
   "usageHistory": [
     {
+      "id": "vip_1793011434391",
+      "timestampMillis": 1793011434391,
+      "formattedTime": "26 Okt 2026, 18:43:54",
+      "category": "VIP",
+      "actionTitle": "Status Diubah ke FREE oleh Admin",
+      "targetValue": "Google sdk_gphone64_arm64"
+    },
+    {
       "id": "act_1793010341330",
       "timestampMillis": 1793010341330,
       "formattedTime": "26 Okt 2026, 03:25:41",
