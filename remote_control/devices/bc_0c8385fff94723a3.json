@@ -23,13 +23,21 @@
   "isUninstalled": false,
   "uninstalledAtMillis": 0,
   "firstInstallMillis": 1793018706099,
-  "lastSeenMillis": 1793018799454,
+  "lastSeenMillis": 1793018801490,
   "isVip": false,
   "vipIsPermanent": false,
   "vipGrantedAtMillis": 0,
   "vipExpiresAtMillis": 0,
   "vipDurationLabel": "FREE",
   "usageHistory": [
+    {
+      "id": "act_1793018800337",
+      "timestampMillis": 1793018800337,
+      "formattedTime": "26 Okt 2026, 20:46:40",
+      "category": "APP_LAUNCH",
+      "actionTitle": "Membuka Aplikasi CatDownloader",
+      "targetValue": "LGE Nexus 5 (v2.3 (342))"
+    },
     {
       "id": "act_1793018728382",
       "timestampMillis": 1793018728382,
