@@ -23,12 +23,12 @@
   "isUninstalled": false,
   "uninstalledAtMillis": 0,
   "firstInstallMillis": 1793010339712,
-  "lastSeenMillis": 1793012539193,
-  "isVip": true,
-  "vipIsPermanent": true,
-  "vipGrantedAtMillis": 1793011450608,
+  "lastSeenMillis": 1793012554398,
+  "isVip": false,
+  "vipIsPermanent": false,
+  "vipGrantedAtMillis": 0,
   "vipExpiresAtMillis": 0,
-  "vipDurationLabel": "PERMANEN",
+  "vipDurationLabel": "FREE",
   "usageHistory": [
     {
       "id": "act_1793012538701",
