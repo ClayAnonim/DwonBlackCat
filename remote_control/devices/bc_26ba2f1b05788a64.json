@@ -23,29 +23,13 @@
   "isUninstalled": false,
   "uninstalledAtMillis": 0,
   "firstInstallMillis": 1793010339712,
-  "lastSeenMillis": 1793011421916,
+  "lastSeenMillis": 1793011468513,
   "isVip": true,
   "vipIsPermanent": true,
   "vipGrantedAtMillis": 1793011450608,
   "vipExpiresAtMillis": 0,
   "vipDurationLabel": "PERMANEN",
   "usageHistory": [
-    {
-      "id": "vip_1793011450608",
-      "timestampMillis": 1793011450608,
-      "formattedTime": "26 Okt 2026, 18:44:10",
-      "category": "VIP",
-      "actionTitle": "Status Diubah ke VIP (PERMANEN)",
-      "targetValue": "Google sdk_gphone64_arm64"
-    },
-    {
-      "id": "vip_1793011434391",
-      "timestampMillis": 1793011434391,
-      "formattedTime": "26 Okt 2026, 18:43:54",
-      "category": "VIP",
-      "actionTitle": "Status Diubah ke FREE oleh Admin",
-      "targetValue": "Google sdk_gphone64_arm64"
-    },
     {
       "id": "act_1793010341330",
       "timestampMillis": 1793010341330,
