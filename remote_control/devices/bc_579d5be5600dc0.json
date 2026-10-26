@@ -1,0 +1,53 @@
+{
+  "deviceId": "bc_579d5be5600dc0",
+  "hardwareSignature": "robolectric|robolectric|robolectric|robolectric|robolectric|sdk_34",
+  "deviceName": "robolectric",
+  "deviceBrand": "robolectric",
+  "deviceModel": "robolectric",
+  "androidVersion": "Android 14 (SDK 34)",
+  "appVersion": "v0.1 (205)",
+  "ipAddress": "34.34.244.105",
+  "networkInfo": "Google LLC • Taipei • Taiwan",
+  "totalLinksUsed": 0,
+  "usedLinksList": [],
+  "isUsingFakeMail": false,
+  "activeFakeMail": "",
+  "usedFakeMails": [],
+  "isModifiedApp": true,
+  "securityStatus": "KEYSTORE \/ APK DIMODIFIKASI (2 Temuan)",
+  "tamperReasons": [
+    "Sertifikat Keystore APK kosong atau telah dihapus",
+    "Segel keamanan Keystore ditolak oleh server (Signature mismatch)"
+  ],
+  "runtimePackageName": "com.downblackcat",
+  "certSha256": "unsigned_runtime_apk",
+  "installerSource": "Pemasangan Manual (APK)",
+  "isOnline": true,
+  "isUninstalled": false,
+  "uninstalledAtMillis": 0,
+  "firstInstallMillis": 1793010829248,
+  "lastSeenMillis": 1793010830038,
+  "isVip": false,
+  "vipIsPermanent": false,
+  "vipGrantedAtMillis": 0,
+  "vipExpiresAtMillis": 0,
+  "vipDurationLabel": "FREE",
+  "usageHistory": [
+    {
+      "id": "sec_1793010829469",
+      "timestampMillis": 1793010829469,
+      "formattedTime": "26 Okt 2026, 10:33:49",
+      "category": "SECURITY",
+      "actionTitle": "Terdeteksi Modifikasi Keystore \/ APK",
+      "targetValue": "Keystore APK tidak cocok dengan Keystore Resmi (SHA-256: unsigned_runtime)"
+    },
+    {
+      "id": "act_1793010829396",
+      "timestampMillis": 1793010829396,
+      "formattedTime": "26 Okt 2026, 10:33:49",
+      "category": "SECURITY",
+      "actionTitle": "Peringatan: Keystore \/ APK Dimodifikasi Dibuka",
+      "targetValue": "Sertifikat Keystore APK kosong atau telah dihapus, Segel keamanan Keystore ditolak oleh server (Signature mismatch)"
+    }
+  ]
+}
