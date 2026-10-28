@@ -22,21 +22,12 @@
   "isOnline": true,
   "isUninstalled": false,
   "uninstalledAtMillis": 0,
-  "firstInstallMillis": 1793100997036,
-  "lastSeenMillis": 1793100998895,
+  "firstInstallMillis": 1793184470489,
+  "lastSeenMillis": 1793184472213,
   "isVip": false,
   "vipIsPermanent": false,
   "vipGrantedAtMillis": 0,
   "vipExpiresAtMillis": 0,
   "vipDurationLabel": "FREE",
-  "usageHistory": [
-    {
-      "id": "act_1793100998928",
-      "timestampMillis": 1793100998928,
-      "formattedTime": "27 Okt 2026, 04:36:38",
-      "category": "APP_LAUNCH",
-      "actionTitle": "Membuka Aplikasi CatDownloader",
-      "targetValue": "Google sdk_gphone64_arm64 (v0.1 (205))"
-    }
-  ]
+  "usageHistory": []
 }
