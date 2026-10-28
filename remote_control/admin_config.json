@@ -1,5 +1,5 @@
 {
-  "versionTimestamp": 1793184409412,
+  "versionTimestamp": 1793184650809,
   "broadcastDialog": {
     "id": "dlg_default",
     "isEnabled": false,
@@ -28,7 +28,36 @@
     "createdAtMillis": 0,
     "expiresAtMillis": 0
   },
-  "personalDialogs": [],
+  "personalDialogs": [
+    {
+      "id": "dlg_user_bc_26ba2f1b05788a64_1793184650784",
+      "isEnabled": true,
+      "targetDeviceId": "bc_26ba2f1b05788a64",
+      "targetDeviceName": "Google sdk_gphone64_arm64 (bc_26ba2f1b05788a64)",
+      "title": "Pesan Khusus: Google sdk_gphone64_arm64",
+      "message": "Halo pengguna Google sdk_gphone64_arm64, ini adalah informasi khusus untuk perangkat Anda.",
+      "style": "INFO",
+      "timeLabel": "28 Oktober 2026 • 18:50:43 WIB",
+      "sendNotification": true,
+      "notificationTitle": "Pesan Khusus: Google sdk_gphone64_arm64",
+      "notificationBody": "Halo pengguna Google sdk_gphone64_arm64, ini adalah informasi khusus untuk perangkat Anda.",
+      "soundType": "DEFAULT_NOTIFICATION",
+      "customSoundUrl": "",
+      "customSoundName": "",
+      "loopSoundUntilDismissed": false,
+      "okButtonText": "Mengerti",
+      "okButtonAction": "DISMISS",
+      "okButtonUrl": "",
+      "showCancelButton": true,
+      "cancelButtonText": "Tutup",
+      "cancelButtonAction": "DISMISS",
+      "cancelButtonUrl": "",
+      "countdownSeconds": 0,
+      "lockScreenUntilTurnedOff": false,
+      "createdAtMillis": 1793184650784,
+      "expiresAtMillis": 0
+    }
+  ],
   "autoKickModifiedApps": false,
   "kickedUsers": [],
   "vipUsers": [
