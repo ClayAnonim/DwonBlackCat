@@ -1,5 +1,5 @@
 {
-  "versionTimestamp": 1793184650809,
+  "versionTimestamp": 1793184979909,
   "broadcastDialog": {
     "id": "dlg_default",
     "isEnabled": false,
@@ -59,7 +59,17 @@
     }
   ],
   "autoKickModifiedApps": false,
-  "kickedUsers": [],
+  "kickedUsers": [
+    {
+      "deviceId": "bc_26ba2f1b05788a64",
+      "deviceName": "Google sdk_gphone64_arm64",
+      "ipAddress": "108.177.18.218",
+      "reason": "Akses perangkat Anda telah dihentikan oleh Administrator.",
+      "kickedAtMillis": 1793184979878,
+      "expiresAtMillis": 0,
+      "isModifiedAppKick": false
+    }
+  ],
   "vipUsers": [
     {
       "deviceId": "bc_fdc84fc7c44a8756",
