@@ -1,0 +1,95 @@
+{
+  "deviceId": "bc_5d300a9d08473477",
+  "hardwareSignature": "vivo|v2207|k69v1_64_k419|mt6768|v2207|sdk_34",
+  "deviceName": "Vivo V2207",
+  "deviceBrand": "vivo",
+  "deviceModel": "V2207",
+  "androidVersion": "Android 14 (SDK 34)",
+  "appVersion": "v2.1 (337)",
+  "ipAddress": "2001:448a:7160:9ff4:fc03:50a9:9875:61d3",
+  "networkInfo": "Telekomunikasi Indonesia PT • Kendari • Indonesia",
+  "totalLinksUsed": 1,
+  "usedLinksList": [
+    "https:\/\/vt.tiktok.com\/ZSgxcrPpW\/"
+  ],
+  "isUsingFakeMail": false,
+  "activeFakeMail": "",
+  "usedFakeMails": [],
+  "isModifiedApp": false,
+  "securityStatus": "KEYSTORE RESMI (Original)",
+  "tamperReasons": [],
+  "runtimePackageName": "com.downblackcat",
+  "certSha256": "c2b5b2867db6ce24be5613a6697b55366c6e1ce77c2119e1cef2826d538961eb",
+  "installerSource": "Android Package Installer",
+  "isOnline": true,
+  "isUninstalled": false,
+  "uninstalledAtMillis": 0,
+  "firstInstallMillis": 1792923611640,
+  "lastSeenMillis": 1794185931060,
+  "usageHistory": [
+    {
+      "id": "act_1794185853872",
+      "timestampMillis": 1794185853872,
+      "formattedTime": "09 Nov 2026, 08:57:33",
+      "category": "APP_LAUNCH",
+      "actionTitle": "Membuka Aplikasi CatDownloader",
+      "targetValue": "Vivo V2207 (v2.1 (337))"
+    },
+    {
+      "id": "act_1794019569141",
+      "timestampMillis": 1794019569141,
+      "formattedTime": "07 Nov 2026, 10:46:09",
+      "category": "APP_LAUNCH",
+      "actionTitle": "Membuka Aplikasi CatDownloader",
+      "targetValue": "Vivo V2207 (v2.1 (337))"
+    },
+    {
+      "id": "act_1793702145597",
+      "timestampMillis": 1793702145597,
+      "formattedTime": "03 Nov 2026, 18:35:45",
+      "category": "APP_LAUNCH",
+      "actionTitle": "Membuka Aplikasi CatDownloader",
+      "targetValue": "Vivo V2207 (v2.1 (337))"
+    },
+    {
+      "id": "act_1793617941938",
+      "timestampMillis": 1793617941938,
+      "formattedTime": "02 Nov 2026, 19:12:21",
+      "category": "APP_LAUNCH",
+      "actionTitle": "Membuka Aplikasi CatDownloader",
+      "targetValue": "Vivo V2207 (v2.1 (337))"
+    },
+    {
+      "id": "act_1793295466876",
+      "timestampMillis": 1793295466876,
+      "formattedTime": "30 Okt 2026, 01:37:46",
+      "category": "APP_LAUNCH",
+      "actionTitle": "Membuka Aplikasi CatDownloader",
+      "targetValue": "Vivo V2207 (v2.1 (337))"
+    },
+    {
+      "id": "act_1792954562297",
+      "timestampMillis": 1792954562297,
+      "formattedTime": "26 Okt 2026, 02:56:02",
+      "category": "APP_LAUNCH",
+      "actionTitle": "Membuka Aplikasi CatDownloader",
+      "targetValue": "Vivo V2207 (v2.1 (337))"
+    },
+    {
+      "id": "link_1792924083557",
+      "timestampMillis": 1792924083557,
+      "formattedTime": "25 Okt 2026, 18:28:03",
+      "category": "LINK",
+      "actionTitle": "Menganalisis Tautan TikTok (Link ke-1)",
+      "targetValue": "https:\/\/vt.tiktok.com\/ZSgxcrPpW\/"
+    },
+    {
+      "id": "act_1792923625782",
+      "timestampMillis": 1792923625782,
+      "formattedTime": "25 Okt 2026, 18:20:25",
+      "category": "APP_LAUNCH",
+      "actionTitle": "Membuka Aplikasi CatDownloader",
+      "targetValue": "Vivo V2207 (v2.1 (337))"
+    }
+  ]
+}
